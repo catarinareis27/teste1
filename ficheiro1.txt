@@ -6,3 +6,5 @@ Estou a fazer alterações ao ficheiro
 ALTERACOES EFETUADAS NO BRANCH "NovaFeature"
 
 Alterações em NovaFeature
+
+Alterações no MAIN
